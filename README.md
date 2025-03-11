@@ -118,7 +118,7 @@
   <!-- Contato -->
   <h2 id="contato">✉️ Contato</h2>
   <p>
-    <strong>Nome:</strong> Vitória Durães | Challenge Amigo Secreto Alura | Oracle Next Education F2 T8 <br />
+    <strong>Nome:</strong> Vitória Durães <br />
     <strong>E-mail:</strong> <a href="mailto:devtoia@outlook.com">devtoia@outlook.com</a><br />
     <strong>GitHub:</strong> <a href="https://github.com/toiaduraes" target="_blank">@toiaduraes</a><br />
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vitoria-duraes" target="_blank">in/vitoria-duraes</a>
