@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <title>Challenge Amigo Secreto Alura | Oracle Next Education F2 T8</title>
+  <title>🎉 Challenge Amigo Secreto Alura | Oracle Next Education F2 T8</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -43,23 +43,26 @@
 </head>
 <body>
 
-  <h1>Challenge Amigo Secreto Alura | Oracle Next Education F2 T8</h1>
+  <!-- Título Principal -->
+  <h1>🎉 Challenge Amigo Secreto Alura | Oracle Next Education F2 T8</h1>
   <p>
     Aplicação estática que permite aos usuários inserir nomes de amigos em uma lista e, em seguida, realizar um sorteio aleatório para determinar quem é o "amigo secreto".
   </p>
 
-  <p><strong>Repositório no GitHub:</strong> 
+  <!-- Links para Repositório e GitHub Pages -->
+  <p><strong>🏷️ Repositório no GitHub:</strong> 
     <a href="https://github.com/toiaduraes/challenge-amigosecreto-alura-github.io" target="_blank">
       https://github.com/toiaduraes/challenge-amigosecreto-alura-github.io
     </a>
   </p>
-  <p><strong>URL do GitHub Pages:</strong> 
+  <p><strong>🌐 URL do GitHub Pages:</strong> 
     <a href="https://toiaduraes.github.io/challenge-amigosecreto-alura-github.io/" target="_blank">
       https://toiaduraes.github.io/challenge-amigosecreto-alura-github.io/
     </a>
   </p>
 
-  <h2>Tabela de Conteúdos</h2>
+  <!-- Tabela de Conteúdos -->
+  <h2>🗂️ Tabela de Conteúdos</h2>
   <ol>
     <li>Visão Geral</li>
     <li>Funcionalidades</li>
@@ -69,7 +72,8 @@
     <li>Contato</li>
   </ol>
 
-  <h2>Visão Geral</h2>
+  <!-- Visão Geral -->
+  <h2 id="visao-geral">🔎 Visão Geral</h2>
   <p>
     Este projeto foi desenvolvido como parte do <strong>Challenge Amigo Secreto Alura / Oracle Next Education F2 T8</strong>.
     Seu objetivo é fornecer uma maneira simples e prática de organizar um “Amigo Secreto”, onde os usuários podem:
@@ -83,7 +87,8 @@
     A aplicação é estática, hospedada diretamente no GitHub Pages, não requerendo um servidor backend para funcionar.
   </p>
 
-  <h2>Funcionalidades</h2>
+  <!-- Funcionalidades -->
+  <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
   <ol>
     <li>
       <strong>Adicionar nomes</strong><br />
@@ -103,7 +108,8 @@
     </li>
   </ol>
 
-  <h2>Estrutura do Projeto</h2>
+  <!-- Estrutura do Projeto -->
+  <h2 id="estrutura-do-projeto">🗂️ Estrutura do Projeto</h2>
   <p>O repositório contém os seguintes arquivos:</p>
   <pre><code>challenge-amigosecreto-alura-github.io/
 ├─ index.html
@@ -121,7 +127,8 @@
     <li><strong>README.md</strong>: Este documento.</li>
   </ul>
 
-  <h2>Como Usar</h2>
+  <!-- Como Usar -->
+  <h2 id="como-usar">📖 Como Usar</h2>
   <ol>
     <li>
       <strong>Acesse a aplicação</strong><br />
@@ -145,12 +152,14 @@
     </li>
   </ol>
 
-  <h2>Licença</h2>
+  <!-- Licença -->
+  <h2 id="licenca">📜 Licença</h2>
   <p>
     Este projeto está licenciado sob a Licença <strong>MIT</strong>. Sinta-se à vontade para usar e modificar, respeitando os termos da licença.
   </p>
 
-  <h2>Contato</h2>
+  <!-- Contato -->
+  <h2 id="contato">✉️ Contato</h2>
   <p>
     <strong>Nome:</strong> Vitória Durães | Challenge Amigo Secreto Alura | Oracle Next Education F2 T8 <br />
     <strong>E-mail:</strong> <a href="mailto:devtoia@outlook.com">devtoia@outlook.com</a><br />
